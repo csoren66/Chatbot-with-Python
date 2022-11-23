@@ -85,3 +85,24 @@ chat = Chat(pairs, reflections)
 
 #Start conversation
 chat.converse()
+
+
+#Output
+Hi, I'm Chandan Soren and I like to chat
+Please type lowercase English language to start a conversation. Type quit to leave
+>hi
+Hey there
+>what is your name
+My name is Chandan Soren, but you can just call me robot and I'm a chatbot .
+>who created you
+Chunnu created me using Python's NLTK library
+>will you help?
+That is nice to hear
+>do you like sports?
+I'm a very big fan of Cricket
+>who is you favourite?
+Virat Kohli
+>bye
+That is nice to hear
+>quit
+It was nice talking to you. See you soon :)
